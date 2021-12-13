@@ -1,0 +1,20 @@
+const CONFIG = {
+    titleWeb: "Tiêu d? web",
+    introTitle: 'Tr?n H?i Anh',
+    introDesc: `Trái d?t v?n l? thu?ng
+    Mà sao em c? di nh?m du?ng
+    L?c vào tim anh l? loi
+    Ð?ng sau ch? yêu dây là thuong`,
+    btnIntro: '^^HiHi^^',
+    title: 'Ph?i chang em dã yêu ngay t? cái nhìn d?u tiên ??',
+    desc: 'Ph?i chang em dã say ngay t? lúc th?y n? cu?i ?y ',
+    btnYes: 'Thích l?m <33',
+    btnNo: 'Không nha :3',
+    question: 'Trên th? gi?i hon 7 t? ngu?i mà sao b?n l?i yêu mình <3',
+    btnReply: 'G?i cho b?n <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình bi?t mà ??. Yêu b?n nhi?u nhi?u ????',
+    messDesc: 'làm b?n gái tao di m<3.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess c?a các b?n. VD: https://m.me/nam.nodemy
+}
